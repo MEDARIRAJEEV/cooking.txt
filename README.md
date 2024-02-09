@@ -7,4 +7,4 @@
  curry
  butter milk
  papad
- price=75/-
+ price=100/-
