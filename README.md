@@ -1,1 +1,10 @@
-# cooking.txt
+
+
+ 
+ welcme to kitchen
+ rice
+ sambar
+ curry
+ butter milk
+ papad
+ price=75/-
